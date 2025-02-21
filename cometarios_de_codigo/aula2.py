@@ -1,0 +1,5 @@
+print("Isto é um argumento")
+print(1234)
+print(56, 78)
+print(56, 78, sep="-", end=" Fim ")
+print(56, 78, sep="-\n", end=" Fim ")
